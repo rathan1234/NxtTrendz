@@ -41,8 +41,16 @@ provides core functionalities.
 
 2. Open [localhost](http://localhost:3000) in your web browser.
 
-## Hosted Url:
+## Login Credentials:
 
-[Nxt Trendz](https://rathannxttrendz.ccbp.tech/)
+- Prime User credentials
+
+  `username: rahul` `password: rahul@2021`
+
+- Non-Prime User credentials
+
+  `username: raja` `password: raja@2021`
+
+## Hosted Url:
 
 https://rathannxttrendz.ccbp.tech
